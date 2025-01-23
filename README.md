@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Salah and I'm a full-stack developer from Egypt</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 ###
+<br>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Salah-Wahsh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -9,9 +12,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ2MmY0M3Q5ZThjaTRtbmZqZm9rZDZnbGcycnYxb2o2aHNzc2xpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ2MmY0M3Q5ZThjaTRtbmZqZm9rZDZnbGcycnYxb2o2aHNzc2xpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
 
 ###
+
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,6 +42,8 @@
 
 ###
 
+<br>
+
 <div align="left">
   <a href="https://discordapp.com/users/.wahsh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -49,6 +56,11 @@
   </a>
 </div>
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=----------------)](https://git.io/typing-svg)
+
+<h2>My Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
