@@ -30,8 +30,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # Use the repository owner's GitHub username
-          github_user_name: ${{ Salah-Wahsh }}
-
+          github_user_name: ${{ github.repository_owner }}
+          
           # Define the output files and their customizations
           outputs: |
             dist/github-snake.svg
