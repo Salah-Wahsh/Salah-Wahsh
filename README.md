@@ -6,7 +6,6 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Salah-Wahsh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salah-Wahsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -59,8 +58,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=----------------)](https://git.io/typing-svg)
-
-<h2>My Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
