@@ -5,10 +5,6 @@
 <br>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salah-Wahsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ2MmY0M3Q5ZThjaTRtbmZqZm9rZDZnbGcycnYxb2o2aHNzc2xpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
